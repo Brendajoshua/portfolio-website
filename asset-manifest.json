@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/static/js/main.ee37c06c.chunk.js",
+    "main.js.map": "/static/js/main.ee37c06c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.13135219.js",
+    "runtime-main.js.map": "/static/js/runtime-main.13135219.js.map",
+    "static/js/2.59e3010b.chunk.js": "/static/js/2.59e3010b.chunk.js",
+    "static/js/2.59e3010b.chunk.js.map": "/static/js/2.59e3010b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.041d3e70c3917bf55dd6f293bf9fe088.js": "/precache-manifest.041d3e70c3917bf55dd6f293bf9fe088.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.59e3010b.chunk.js.LICENSE.txt": "/static/js/2.59e3010b.chunk.js.LICENSE.txt",
+    "static/media/artfunder.png": "/static/media/artfunder.894c8e1a.png",
+    "static/media/dadjokes.png": "/static/media/dadjokes.6c1c7ffc.png",
+    "static/media/foodiepass.png": "/static/media/foodiepass.28d40076.png",
+    "static/media/hero.jpg": "/static/media/hero.470c7751.jpg",
+    "static/media/me.jpg": "/static/media/me.bcd4a9ca.jpg",
+    "static/media/partyplanner.png": "/static/media/partyplanner.553b392d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13135219.js",
+    "static/js/2.59e3010b.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.ee37c06c.chunk.js"
+  ]
+}
